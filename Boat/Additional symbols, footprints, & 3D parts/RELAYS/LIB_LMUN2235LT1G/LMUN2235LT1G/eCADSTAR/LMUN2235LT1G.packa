@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LMUN2235LT1G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-30-03:09:00)
+    (mountForm default
+        (footprintRef "LMUN2235LT1G")
+        (spec "System")
+    )
+)

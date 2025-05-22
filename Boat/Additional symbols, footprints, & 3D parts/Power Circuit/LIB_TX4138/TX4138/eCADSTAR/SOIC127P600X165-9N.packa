@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TX4138"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-09-10:20:44)
+    (mountForm default
+        (footprintRef "SOIC127P600X165-9N")
+        (spec "System")
+    )
+)

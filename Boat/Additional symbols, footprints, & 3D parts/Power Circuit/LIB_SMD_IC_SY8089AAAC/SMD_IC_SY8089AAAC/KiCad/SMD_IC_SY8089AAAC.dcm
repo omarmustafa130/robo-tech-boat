@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SMD_IC_SY8089AAAC
+D  Low RDS(ON) for internal switches  (top/bottom):110m/80m  2.7-5.5V input voltage range  2A continuous, 3A peak load current capability  1MHz switching frequency minimizes the external components  Internal softstart limits the inrush current  Reliable short circuit protection:  SY8089: Latch off protection  SY8089A: Hic-cup mode protection  Reliable over-voltage protection:  SY8089: Latch off protection  SY8089A: No latch off protection  100% dropout operation  RoHS Compliant an
+K
+F https://www.mouser.in/datasheet/2/306/SY8089AAAC-3223250.pdf
+$ENDCMP
+#
+#End Doc Library

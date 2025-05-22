@@ -1,0 +1,9 @@
+Manufacturer=WIZnet Inc
+PartNumber=W5500
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=2.1
+Released=2016-06-08 09:15:26
+Downloaded=2025-05-18 22:16:48
+3D=Y

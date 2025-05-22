@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MS_22D28_G020'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "G-Switch Electronic", "MS-22D28-G020" (!) = "", "MS22D28G020", "Other", "", "", "", "", "SMD,7x4x2.1mm Slide Switches ROHS", "https://datasheet.lcsc.com/lcsc/2012062037_G-Switch-MS-22D28-G020_C963205.pdf", "4.25 mm"
+END_PART
+
+END.

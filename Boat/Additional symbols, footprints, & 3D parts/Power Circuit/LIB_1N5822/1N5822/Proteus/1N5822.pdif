@@ -1,0 +1,159 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1N5822"
+   (description "Obsolete - Schottky Barrier Rectifier, 3.0 A, 40 V")
+   (family "DIO")
+   (package "DIOAD3070W130L950D530")
+   (attribute "Datasheet Link" "https://www.onsemi.com/download/data-sheet/pdf/1N5820-D.PDF")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "1N5822")
+   (attribute "Mouser Part Number" "512-1N5822")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N5822?qs=UY9CvlAIy0ilZt8GFdM7Zg%3D%3D")
+   (attribute "Arrow Part Number" "1N5822")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/1n5822/on-semiconductor")
+   (gate
+    (symbol "1N5822")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "1N5822"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIOAD3070W130L950D530"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.375 3)
+      (pt 32.075 3)
+      (pt 32.075 -3)
+      (pt -1.375 -3)
+      (pt -1.375 3))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 10.6 2.65)
+      (pt 20.1 2.65)
+      (pt 20.1 -2.65)
+      (pt 10.6 -2.65)
+      (pt 10.6 2.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 10.6 0)
+      (pt 13.25 2.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 0 0)
+      (pt 10.6 0))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 20.1 0)
+      (pt 30.7 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 10.6 2.65)
+      (pt 20.1 2.65)
+      (pt 20.1 -2.65)
+      (pt 10.6 -2.65)
+      (pt 10.6 2.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10.6 0)
+      (pt 13.25 2.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 1.475 0)
+      (pt 10.6 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 20.1 0)
+      (pt 29.225 0))))
+   (leg 1 (pt 0 0) (padstack 1))
+   (leg 2 (pt 30.7 0) (padstack 0))
+   (padstack 0
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (round 2.25))
+    (pad (layer INNER) (round 2.25))
+    (pad (layer BCOP) (round 2.25))
+   )
+   (padstack 1
+    (hole 1.5)
+    (plated true)
+    (pad (layer TCOP) (square 2.25))
+    (pad (layer INNER) (round 2.25))
+    (pad (layer BCOP) (square 2.25))
+   )
+   (model "1N5822.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

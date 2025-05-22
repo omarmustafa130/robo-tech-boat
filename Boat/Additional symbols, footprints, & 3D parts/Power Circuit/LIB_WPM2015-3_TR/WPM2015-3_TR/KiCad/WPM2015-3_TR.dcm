@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WPM2015-3_TR
+D MOSFET P Trench 20V 2.2A 810mV @ 250uA 110 m @ 2.7A,4.5V SOT-23(SOT-23-3) RoHS
+K
+F https://lcsc.com/product-detail/MOSFET_Will-Semicon-WPM2015-3-TR_C213159.html
+$ENDCMP
+#
+#End Doc Library

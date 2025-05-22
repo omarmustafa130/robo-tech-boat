@@ -1,0 +1,16 @@
+.1N4148W :1 ;Rectifier Diode Small Signal Switching 100V 0.15A 4ns 2-Pin SOD-123F T/R
+SODFL3816X120N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N4148W
+~!Mouser Part Number (637-1N4148W)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/1N4148W?qs=OlC7AqGiEDmsbkbAeXQtXg%3D%3D)
+~!Manufacturer_Name (Diotec)
+~!Manufacturer_Part_Number (1N4148W)
+~!Link Datasheet (https://diotec.com/request/datasheet/1n4148w.pdf)
+~!Height (1.2mm)
+~!3D_Model (1N4148W)
+"1N4148W"
+1.1!U 2.1!U 

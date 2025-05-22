@@ -1,0 +1,16 @@
+.SMAJ58A :1 ;Littelfuse SMAJ58A Uni-Directional TVS Diode, 400W peak, 2-Pin DO-214AC
+DIOM5026X229N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SMAJ58A
+~!Mouser Part Number (576-SMAJ58A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ58A?qs=2VFNtWizgiepPOMiS0Encw%3D%3D)
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (SMAJ58A)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/SMAJ58A.pdf)
+~!Height (2.29mm)
+~!3D_Model (SMAJ58A)
+SMAJ58A
+1.1!U 2.1!U 

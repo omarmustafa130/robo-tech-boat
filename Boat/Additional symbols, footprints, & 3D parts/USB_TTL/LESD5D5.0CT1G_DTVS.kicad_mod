@@ -1,0 +1,109 @@
+(footprint "LESD5D5.0CT1G_DTVS"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "72f018e2-b934-49fd-a65e-248e7c738ca3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LESD5D5.0CT1G_DTVS"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "34be0b3a-cbf5-446c-885f-09b01dd59ea1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bafa9844-329b-4a02-ae81-5bb55cab221e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7b58739-c561-4773-a831-31cbdad38eb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbd42650-f981-45ae-8dec-bb7e4a9a6a92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -0.66 3.43)
+		(end 0.64 4.33)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e5a82f93-852a-4d3d-9165-e6cdbeb5f4f2")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5251a8d9-46a3-4bc9-a9f1-a68b4eee5681")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.67 3.88)
+		(size 0.48 0.4)
+		(layers "F.Cu" "F.Paste" "B.SilkS" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "63780f1f-7635-46fc-94e5-0ce09ddc1962")
+	)
+	(pad "2" smd roundrect
+		(at 0.65 3.88)
+		(size 0.48 0.4)
+		(layers "F.Cu" "F.Paste" "B.SilkS" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "26608ba6-a81c-426d-a0c9-ae87ece275e4")
+	)
+)

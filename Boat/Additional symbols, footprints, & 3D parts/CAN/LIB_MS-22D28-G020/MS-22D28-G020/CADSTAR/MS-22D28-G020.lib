@@ -1,0 +1,18 @@
+.MS-22D28-G020 :1 ;SMD,7x4x2.1mm Slide Switches ROHS
+MS22D28G020
+*STM S
+*NGS
+*PLB 1="NO_1" 2="COM_1" 3="NC_1" 4="NO_2" 5="COM_2" 6="NC_2"
+*MXP 8
+*DFN MS-22D28-G020
+~!Manufacturer_Name (G-Switch Electronic)
+~!Manufacturer_Part_Number (MS-22D28-G020)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/lcsc/2012062037_G-Switch-MS-22D28-G020_C963205.pdf)
+~!Height (4.25mm)
+~!3D_Model (MS-22D28-G020)
+MS-22D28-G020
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

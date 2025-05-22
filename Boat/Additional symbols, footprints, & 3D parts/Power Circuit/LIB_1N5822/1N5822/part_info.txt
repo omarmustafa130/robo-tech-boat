@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=1N5822
+PartCategory=Diode
+PackageCategory=Diodes, Axial Diameter Horizontal Mounting
+PinCount=2
+Version=3.1
+Released=2019-05-16 03:58:05
+Downloaded=2025-05-18 14:19:24
+3D=Y

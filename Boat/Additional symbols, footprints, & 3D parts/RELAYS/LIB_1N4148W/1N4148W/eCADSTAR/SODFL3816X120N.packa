@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1N4148W"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-02-22-10:59:26)
+    (mountForm default
+        (footprintRef "SODFL3816X120N")
+        (spec "System")
+    )
+)

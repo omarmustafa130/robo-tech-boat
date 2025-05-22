@@ -1,0 +1,9 @@
+Manufacturer=Harmony Electronics
+PartNumber=HSO321S
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=2.2
+Released=2024-11-27 13:11:35
+Downloaded=2025-05-19 02:50:09
+3D=Y

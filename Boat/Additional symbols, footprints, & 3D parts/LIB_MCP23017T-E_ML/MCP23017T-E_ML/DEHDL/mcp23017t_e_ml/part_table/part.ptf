@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCP23017T_E_ML'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MCP23017T-E/ML" (!) = "", "QFN65P600X600X100-29N-D", "Quad Flat No-Lead", "579-MCP23017T-E/ML", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP23017T-E-ML?qs=usxtMOJb1RwLvxs2MXknpg%3D%3D", "Interface - I/O Expanders 16bit Input/Output Exp I2C interface", "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090057.pdf", "1 mm"
+END_PART
+
+END.

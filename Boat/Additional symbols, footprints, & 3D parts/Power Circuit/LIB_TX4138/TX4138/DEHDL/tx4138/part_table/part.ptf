@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TX4138'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "XDS", "TX4138" (!) = "", "SOIC127P600X165-9N", "Small Outline Packages", "", "", "", "", "DC-DC Converters Step-Down Adjustable 1 4.5V 60V 0.8V 40V 4A ESOIC-8 RoHS", "https://datasheet.lcsc.com/szlcsc/XDS-TX4138_C329267.pdf", "1.65 mm"
+END_PART
+
+END.

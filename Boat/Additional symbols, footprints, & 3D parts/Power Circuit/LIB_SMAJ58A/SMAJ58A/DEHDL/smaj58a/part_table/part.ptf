@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMAJ58A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "SMAJ58A" (!) = "", "DIOM5026X229N", "Diodes Moulded", "576-SMAJ58A", "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMAJ58A?qs=2VFNtWizgiepPOMiS0Encw%3D%3D", "Littelfuse SMAJ58A Uni-Directional TVS Diode, 400W peak, 2-Pin DO-214AC", "https://componentsearchengine.com/Datasheets/2/SMAJ58A.pdf", "2.29 mm"
+END_PART
+
+END.

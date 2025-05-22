@@ -1,0 +1,18 @@
+.TX4138 :1 ;DC-DC Converters Step-Down Adjustable 1 4.5V 60V 0.8V 40V 4A ESOIC-8 RoHS
+SOIC127P600X165-9N
+*STM IC
+*NGS
+*PLB 1="SW" 2="ILIM_1" 3="VIN" 4="GND" 5="FB" 6="EN" 7="POK" 8="BS" 9="ILIM_2"
+*MXP 9
+*DFN TX4138
+~!Manufacturer_Name (XDS)
+~!Manufacturer_Part_Number (TX4138)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/XDS-TX4138_C329267.pdf)
+~!Height (1.65mm)
+~!3D_Model (TX4138)
+TX4138
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

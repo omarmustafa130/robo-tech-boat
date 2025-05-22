@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1N5822'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "onsemi", "1N5822" (!) = "", "DIOAD3070W130L950D530", "Diodes, Axial Diameter Horizontal Mounting", "512-1N5822", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N5822?qs=UY9CvlAIy0ilZt8GFdM7Zg%3D%3D", "1N5822", "https://www.arrow.com/en/products/1n5822/on-semiconductor", "Obsolete - Schottky Barrier Rectifier, 3.0 A, 40 V", "https://www.onsemi.com/download/data-sheet/pdf/1N5820-D.PDF"
+END_PART
+
+END.

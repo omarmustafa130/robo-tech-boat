@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMUN2235LT1G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Leshan Radio", "LMUN2235LT1G" (!) = "", "LMUN2235LT1G", "Other", "N/A", "https://www.mouser.co.uk/ProductDetail/onsemi/LMUN2235LT1G?qs=03LlaNF4vqwX7H7zEKn4ww%3D%3D", "", "", "1 NPN - Pre Biased 246mW 100mA 50V SOT-23 Digital Transistors ROHS", "https://www.lcsc.com/datasheet/lcsc_datasheet_1809291530_LRC-LMUN2235LT1G_C150982.pdf", "1.11 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N5822
+D Obsolete - Schottky Barrier Rectifier, 3.0 A, 40 V
+K
+F https://www.onsemi.com/download/data-sheet/pdf/1N5820-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "WPM2015-3_TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-26-10:24:19)
+    (mountForm default
+        (footprintRef "SOT95P240X130-3N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=XDS
+PartNumber=TX4138
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2019-10-09 10:20:44
+Downloaded=2025-05-18 13:42:08
+3D=Y

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MS-22D28-G020"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-14-09:25:00)
+    (mountForm default
+        (footprintRef "MS22D28G020")
+        (spec "System")
+    )
+)

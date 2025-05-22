@@ -1,0 +1,18 @@
+.HSO321S :1 ;Harmony Electronics Corp. CRYSTAL OSCILLATOR, SPXO Frequency Stability over Operating Temperature Range +/-100 ppm /-40~+125 CPower Voltage (+/-10%) +1.8 V +2.5 V +2.8 V
+HSO321S
+*STM Y
+*NGS
+*PLB 1="OE(OUTPUT ENABLE)" 2="GND" 3="OUTPUT" 4="VDD"
+*MXP 4
+*DFN HSO321S
+~!Manufacturer_Name (Harmony Electronics)
+~!Manufacturer_Part_Number (HSO321S)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.hele.com.tw/UserFiles/Products/5706042835e61e966306da.pdf)
+~!Height (1.1mm)
+~!3D_Model (HSO321S)
+HSO321S
+1.1!U 2.1!U 3.1!U 4.1!U 

@@ -1,0 +1,117 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1N4148W"
+   (description "Rectifier Diode Small Signal Switching 100V 0.15A 4ns 2-Pin SOD-123F T/R")
+   (family "DIO")
+   (package "SODFL3816X120N")
+   (attribute "Datasheet Link" "https://diotec.com/request/datasheet/1n4148w.pdf")
+   (attribute "Geometry.Height" "1.2mm")
+   (attribute "Mouser Part Number" "637-1N4148W")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diotec-Semiconductor/1N4148W?qs=OlC7AqGiEDmsbkbAeXQtXg%3D%3D")
+   (attribute "Manufacturer_Name" "Diotec")
+   (attribute "Manufacturer_Part_Number" "1N4148W")
+   (gate
+    (symbol "1N4148W")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "1N4148W"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SODFL3816X120N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.36 1)
+      (pt 2.36 1)
+      (pt 2.36 -1)
+      (pt -2.36 -1)
+      (pt -2.36 1))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.35 0.8)
+      (pt 1.35 0.8)
+      (pt 1.35 -0.8)
+      (pt -1.35 -0.8)
+      (pt -1.35 0.8))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.35 0.29)
+      (pt -0.84 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.21 0.8)
+      (pt 1.35 0.8))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.35 -0.8)
+      (pt 1.35 -0.8))))
+   (leg 1 (pt -1.7 0) (padstack 0))
+   (leg 2 (pt 1.7 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.74 1.02 0 0 0))
+   )
+   (model "1N4148W.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

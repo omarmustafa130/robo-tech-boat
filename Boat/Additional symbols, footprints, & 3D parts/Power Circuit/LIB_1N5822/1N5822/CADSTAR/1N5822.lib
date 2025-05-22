@@ -1,0 +1,18 @@
+.1N5822 :1 ;Obsolete - Schottky Barrier Rectifier, 3.0 A, 40 V
+DIOAD3070W130L950D530
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN 1N5822
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (1N5822)
+~!Mouser Part Number (512-1N5822)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/1N5822?qs=UY9CvlAIy0ilZt8GFdM7Zg%3D%3D)
+~!Arrow Part Number (1N5822)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1n5822/on-semiconductor)
+~!Link Datasheet (https://www.onsemi.com/download/data-sheet/pdf/1N5820-D.PDF)
+~!Height (-)
+~!3D_Model (1N5822)
+"1N5822"
+1.1!U 2.1!U 

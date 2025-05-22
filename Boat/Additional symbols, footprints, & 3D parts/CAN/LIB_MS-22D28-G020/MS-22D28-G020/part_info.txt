@@ -1,0 +1,9 @@
+Manufacturer=G-Switch Electronic
+PartNumber=MS-22D28-G020
+PartCategory=Switch
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2022-04-14 09:25:00
+Downloaded=2025-05-21 14:01:50
+3D=Y

@@ -1,0 +1,16 @@
+.SMD_IC_SY8089AAAC :1 ; Low RDS(ON) for internal switches  (top/bottom):110m/80m  2.7-5.5V input voltage range  2A continuous, 3A peak load current capability  1MHz switching frequency minimizes the external components  Internal softstart limits the inrush current  Reliable short circuit protection:  SY8089: Latch off protection  SY8089A: Hic-cup mode protection  Reliable over-voltage protection:  SY8089: Latch off protection  SY8089A: No latch off protection  100% dropout operation  RoHS Compliant an
+SOT95P285X140-5N
+*STM IC
+*NGS
+*PLB 1="EN" 2="GND" 3="LX" 4="IN" 5="FB"
+*MXP 5
+*DFN SMD_IC_SY8089AAAC
+~!Mouser Part Number (909-SMDICSY8089AAAC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Olimex-Ltd/SMD-IC-SY8089AAAC?qs=9vOqFld9vZWYCHRT5zkhFw%3D%3D)
+~!Manufacturer_Name (Olimex Ltd.)
+~!Manufacturer_Part_Number (SMD IC SY8089AAAC)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/306/SY8089AAAC-3223250.pdf)
+~!Height (1.4mm)
+~!3D_Model (SMD_IC_SY8089AAAC)
+SMD_IC_SY8089AAAC
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

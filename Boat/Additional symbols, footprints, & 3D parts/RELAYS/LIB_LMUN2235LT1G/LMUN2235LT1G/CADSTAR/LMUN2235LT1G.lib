@@ -1,0 +1,18 @@
+.LMUN2235LT1G :1 ;1 NPN - Pre Biased 246mW 100mA 50V SOT-23 Digital Transistors ROHS
+LMUN2235LT1G
+*STM Q
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN LMUN2235LT1G
+~!Manufacturer_Name (Leshan Radio)
+~!Manufacturer_Part_Number (LMUN2235LT1G)
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi/LMUN2235LT1G?qs=03LlaNF4vqwX7H7zEKn4ww%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.lcsc.com/datasheet/lcsc_datasheet_1809291530_LRC-LMUN2235LT1G_C150982.pdf)
+~!Height (1.11mm)
+~!3D_Model (LMUN2235LT1G)
+LMUN2235LT1G
+1.1!U 2.1!U 3.1!U 

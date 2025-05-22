@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'HSO321S'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Harmony Electronics", "HSO321S" (!) = "", "HSO321S", "Other", "", "", "", "", "Harmony Electronics Corp. CRYSTAL OSCILLATOR, SPXO Frequency Stability over Operating Temperature Range +/-100 ppm /-40~+125 CPower Voltage (+/-10%) +1.8 V +2.5 V +2.8 V", "https://www.hele.com.tw/UserFiles/Products/5706042835e61e966306da.pdf", "1.1 mm"
+END_PART
+
+END.

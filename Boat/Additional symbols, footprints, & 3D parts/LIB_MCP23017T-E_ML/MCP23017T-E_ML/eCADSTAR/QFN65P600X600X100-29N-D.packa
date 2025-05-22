@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCP23017T-E_ML"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-02-12:36:07)
+    (mountForm default
+        (footprintRef "QFN65P600X600X100-29N-D")
+        (spec "System")
+    )
+)

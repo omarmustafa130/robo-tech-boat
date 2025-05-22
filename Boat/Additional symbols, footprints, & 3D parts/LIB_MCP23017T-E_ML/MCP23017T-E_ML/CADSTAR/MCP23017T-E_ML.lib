@@ -1,0 +1,16 @@
+.MCP23017T-E_ML :1 ;Interface - I/O Expanders 16bit Input/Output Exp I2C interface
+QFN65P600X600X100-29N-D
+*STM IC
+*NGS
+*PLB 1="GPB4" 2="GPB5" 3="GPB6" 4="GPB7" 5="VDD" 6="VSS" 7="NC_1" 8="SCK" 9="SDA" 10="NC_2" 11="A0" 12="A1" 13="A2" 14="'RESET'" 15="INTB" 16="INTA" 17="GPA0" 18="GPA1" 19="GPA2" 20="GPA3" 21="GPA4" 22="GPA5" 23="GPA6" 24="GPA7" 25="GPB0" 26="GPB1" 27="GPB2" 28="GPB3" 29="EP"
+*MXP 29
+*DFN MCP23017T-E_ML
+~!Mouser Part Number (579-MCP23017T-E/ML)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP23017T-E-ML?qs=usxtMOJb1RwLvxs2MXknpg%3D%3D)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MCP23017T-E/ML)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090057.pdf)
+~!Height (1mm)
+~!3D_Model (MCP23017T-E_ML)
+MCP23017T-E_ML
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 

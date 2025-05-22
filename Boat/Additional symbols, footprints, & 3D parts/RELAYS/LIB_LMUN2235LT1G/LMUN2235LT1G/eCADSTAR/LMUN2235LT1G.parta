@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_16071700"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-30-03:09:00)
+    (utime 2024-05-30-03:09:00)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "LMUN2235LT1G")
+)
+
+
+(pinAssign "ECS_16071700"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-30-03:09:00)
+    (utime 2024-05-30-03:09:00)
+    (interface
+        (port "1" (symbPinId 1) (portName "B") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "E") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "C") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_16071700")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LMUN2235LT1G")
+)
+
+
+(part "LMUN2235LT1G"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-30-03:09:00)
+    (utime 2024-05-30-03:09:00)
+    (packageRef "LMUN2235LT1G")
+    (pinAssignRef "ECS_16071700")
+    (interface
+        (port "1" (symbPinId 1) (portName "B") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "E") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "C") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "1 NPN - Pre Biased 246mW 100mA 50V SOT-23 Digital Transistors ROHS")
+    (property "Manufacturer_Name" "Leshan Radio")
+    (property "Manufacturer_Part_Number" "LMUN2235LT1G")
+    (property "Mouser_Part_Number" "N/A")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/LMUN2235LT1G?qs=03LlaNF4vqwX7H7zEKn4ww%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.lcsc.com/datasheet/lcsc_datasheet_1809291530_LRC-LMUN2235LT1G_C150982.pdf")
+    (property "compAreaTopHeight" 1.11)
+)
+
+

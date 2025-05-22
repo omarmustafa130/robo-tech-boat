@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_2341264"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-07-26-10:24:19)
+    (utime 2024-07-15-10:52:22)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 3) (portType INOUT))
+        (port "3" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "WPM2015-3_TR")
+)
+
+
+(pinAssign "ECS_2341264"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-07-26-10:24:19)
+    (utime 2024-07-15-10:52:22)
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_2341264")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "WPM2015-3_TR")
+)
+
+
+(part "WPM2015-3_TR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-07-26-10:24:19)
+    (utime 2024-07-15-10:52:22)
+    (packageRef "WPM2015-3_TR")
+    (pinAssignRef "ECS_2341264")
+    (interface
+        (port "1" (symbPinId 1) (portName "G") (portType INOUT))
+        (port "2" (symbPinId 3) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 2) (portName "D") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "MOSFET P Trench 20V 2.2A 810mV @ 250uA 110 m @ 2.7A,4.5V SOT-23(SOT-23-3) RoHS")
+    (property "Manufacturer_Name" "Will Semiconductor")
+    (property "Manufacturer_Part_Number" "WPM2015-3/TR")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://lcsc.com/product-detail/MOSFET_Will-Semicon-WPM2015-3-TR_C213159.html")
+    (property "compAreaTopHeight" 1.3)
+)
+
+

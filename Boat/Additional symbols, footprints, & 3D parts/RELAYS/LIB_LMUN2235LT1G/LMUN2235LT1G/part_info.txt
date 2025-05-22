@@ -1,0 +1,9 @@
+Manufacturer=Leshan Radio
+PartNumber=LMUN2235LT1G
+PartCategory=Transistor RET NPN
+PackageCategory=Other
+PinCount=3
+Version=1.4
+Released=2024-05-30 03:09:00
+Downloaded=2025-05-18 22:09:59
+3D=Y

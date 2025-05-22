@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1N5822"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-16-03:58:05)
+    (mountForm default
+        (footprintRef "DIOAD3070W130L950D530")
+        (spec "System")
+    )
+)

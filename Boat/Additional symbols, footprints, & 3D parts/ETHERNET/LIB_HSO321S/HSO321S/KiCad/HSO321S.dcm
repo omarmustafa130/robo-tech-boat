@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HSO321S
+D Harmony Electronics Corp. CRYSTAL OSCILLATOR, SPXO Frequency Stability over Operating Temperature Range +/-100 ppm /-40~+125 CPower Voltage (+/-10%) +1.8 V +2.5 V +2.8 V
+K
+F https://www.hele.com.tw/UserFiles/Products/5706042835e61e966306da.pdf
+$ENDCMP
+#
+#End Doc Library

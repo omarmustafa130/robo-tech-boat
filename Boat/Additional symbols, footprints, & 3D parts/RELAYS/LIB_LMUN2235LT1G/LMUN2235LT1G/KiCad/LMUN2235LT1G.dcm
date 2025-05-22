@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMUN2235LT1G
+D 1 NPN - Pre Biased 246mW 100mA 50V SOT-23 Digital Transistors ROHS
+K
+F https://www.lcsc.com/datasheet/lcsc_datasheet_1809291530_LRC-LMUN2235LT1G_C150982.pdf
+$ENDCMP
+#
+#End Doc Library

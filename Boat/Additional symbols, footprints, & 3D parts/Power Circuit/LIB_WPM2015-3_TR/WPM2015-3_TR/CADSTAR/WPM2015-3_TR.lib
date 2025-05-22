@@ -1,0 +1,17 @@
+.WPM2015-3_TR :1 ;MOSFET P Trench 20V 2.2A 810mV @ 250uA 110 m @ 2.7A,4.5V SOT-23(SOT-23-3) RoHS
+SOT95P240X130-3N
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN WPM2015-3_TR
+~!Manufacturer_Name (Will Semiconductor)
+~!Manufacturer_Part_Number (WPM2015-3/TR)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://lcsc.com/product-detail/MOSFET_Will-Semicon-WPM2015-3-TR_C213159.html)
+~!Height (1.3mm)
+WPM2015-3_TR
+1.1!U 2.1!U 3.1!U 
